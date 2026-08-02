@@ -47,13 +47,9 @@ The dataset underwent preprocessing, duplicate removal, stratified train-test sp
 - Support Vector Machine (Linear & RBF)
 - XGBoost
 
-### Deep Learning
-- LSTM
-- Bidirectional LSTM (BiLSTM)
-
 ### Transformer Model
 - ModernBERT
-
+Roberta
 ---
 
 ## 🔍 Explainable AI (XAI)
